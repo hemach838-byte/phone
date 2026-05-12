@@ -5,7 +5,7 @@ const phones = [
     model: "Galaxy A54 5G",
     category: ["students", "battery"],
     price: 24999,
-    image: "images/samsung.png",
+    image: "samsung.png",
     specs: {
       ram: "8GB",
       storage: "128GB",
@@ -22,7 +22,7 @@ const phones = [
     model: "iPhone 13",
     category: ["camera", "work"],
     price: 59999,
-    image: "images/apple.png",
+    image: "apple.png",
     specs: {
       ram: "4GB",
       storage: "128GB",
@@ -39,7 +39,7 @@ const phones = [
     model: "Nord 3 5G",
     category: ["gaming", "battery"],
     price: 33999,
-    image: "images/one.png",
+    image: "one.png",
     specs: {
       ram: "8GB",
       storage: "128GB",
@@ -56,7 +56,7 @@ const phones = [
     model: "Redmi Note 12 Pro",
     category: ["students", "camera"],
     price: 19999,
-    image: "images/redmi.png",
+    image: "redmi.png",
     specs: {
       ram: "6GB",
       storage: "128GB",
@@ -73,7 +73,7 @@ const phones = [
     model: "Nord 3 5G",
     category: ["gaming", "battery"],
     price: 33999,
-    image: "images/one.png",
+    image: "one.png",
     specs: {
       ram: "8GB",
       storage: "128GB",
@@ -90,7 +90,7 @@ const phones = [
     model: "Realme Narzo 60",
     category: ["students", "battery"],
     price: 17999,
-    image: "images/realme.png",
+    image: "realme.png",
     specs: {
       ram: "8GB",
       storage: "128GB",
@@ -107,7 +107,7 @@ const phones = [
     model: "iQOO Neo 7",
     category: ["gaming"],
     price: 29999,
-    image: "images/iq.png",
+    image: "iq.png",
     specs: {
       ram: "12GB",
       storage: "256GB",
@@ -124,7 +124,7 @@ const phones = [
     model: "Vivo V29",
     category: ["camera"],
     price: 32999,
-    image: "images/vivo.png",
+    image: "vivo.png",
     specs: {
       ram: "8GB",
       storage: "256GB",
@@ -141,7 +141,7 @@ const phones = [
     model: "Oppo Reno 10",
     category: ["camera", "work"],
     price: 38999,
-    image: "images/oppo.png",
+    image: "oppo.png",
     specs: {
       ram: "12GB",
       storage: "256GB",
