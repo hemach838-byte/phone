@@ -62,7 +62,8 @@ Through this project, I practiced:
 - Responsive Layout Design
 
 ---
-Live Demo:
+GitHub link: https://github.com/hemach838-byte/phone/
+Live Demo: https://hemach838-byte.github.io/phone/
 
 ## 👩‍💻 Author
 
