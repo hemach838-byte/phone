@@ -5,7 +5,7 @@ const phones = [
     model: "Galaxy A54 5G",
     category: ["students", "battery"],
     price: 24999,
-    image: "images/samsung.png",
+    image: "samsung.png",
     specs: {
       ram: "8GB",
       storage: "128GB",
